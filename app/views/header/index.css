@@ -1,0 +1,4 @@
+header{width: 100%; padding: 0 10%; position: sticky;display: flex;top:0;align-items: center; justify-content: space-between;height: 48px;}
+.item-switch{display: flex;}
+.item-theme{display: flex;}
+.header-logo{width: 118px;height: 36px;display: block;background: url(//cms.wisheli.com/docEditor/images/logo.png) no-repeat center/contain;text-indent: -999px;}
